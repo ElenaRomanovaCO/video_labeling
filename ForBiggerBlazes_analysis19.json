@@ -1,0 +1,61 @@
+{
+  "captions_summary": "This ad promotes the Chromecast device for streaming HBO GO content, emphasizing the ability to enjoy favorite shows like 'Game of Thrones' on your TV. The visuals highlight action-packed scenes and the convenience of accessing premium content.",
+  "description": "The video begins with a tablet displaying a scene from Game of Thrones, positioned on a wooden table next to a coffee cup, implying personal viewing. The scene quickly transitions to a full-screen television showing a dragon breathing fire, accompanied by the phrase 'FOR BIGGER BLAZES.' The ad then shows a Chromecast device being plugged into a TV, followed by a static screen emphasizing HBO GO's availability on TV and Chromecast's affordability.",
+  "captions": {
+    "0:04": "Game of Thrones on HBO GO",
+    "0:05": "FOR BIGGER BLAZES",
+    "0:09": "HBO GO right on your TV.",
+    "0:11": "Everything you love, now on your TV.",
+    "0:12": "For $35. For everyone."
+  },
+  "keywords": [
+    "chromecast",
+    "hbo go",
+    "game of thrones",
+    "streaming device",
+    "tv streaming",
+    "google",
+    "hdmi",
+    "entertainment",
+    "movies",
+    "tv shows",
+    "home entertainment",
+    "affordable streaming",
+    "premium content",
+    "big screen",
+    "dragon"
+  ],
+  "media_type": "video",
+  "processing_time": 19.157370567321777,
+  "timestamps": {
+    "0:00": "Tablet shows Daenerys Targaryen on screen from Game of Thrones.",
+    "0:02": "Hand touches the tablet screen.",
+    "0:03": "Game of Thrones shown on a TV screen with dragon breathing fire.",
+    "0:05": "Text overlay 'FOR BIGGER BLAZES' appears.",
+    "0:07": "Hand plugs in Chromecast device to TV.",
+    "0:09": "HBO GO logo displayed on white screen.",
+    "0:12": "Chromecast logo appears with price."
+  },
+  "product_name": "Chromecast",
+  "brand": "Google",
+  "department": "Marketing",
+  "product_features": [
+    "easy setup",
+    "hd streaming",
+    "access to HBO GO",
+    "compact design"
+  ],
+  "unique_selling_points": [
+    "Stream HBO GO on your TV",
+    "Affordable entertainment solution",
+    "Easy to use device"
+  ],
+  "call_to_action": "Visit google.com/chromecast to purchase",
+  "target_audience_age_range": "25-54",
+  "video_mood": "exciting",
+  "marketing_funnel_stage": "awareness",
+  "languages": [
+    "English"
+  ],
+  "competitor_analysis": "Competitors include Roku, Amazon Fire Stick, and Apple TV. Chromecast differentiates itself with its price point and direct integration with Google services."
+}
