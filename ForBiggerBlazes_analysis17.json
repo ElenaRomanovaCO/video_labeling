@@ -1,0 +1,50 @@
+{
+  "captions_summary": "The ad starts by depicting HBO Go streaming on a tablet, then transitions to a television screen for a larger viewing experience. The tagline 'For Bigger Blazes' is displayed, highlighting a visual spectacle on the big screen. The ad concludes by showing the Google Chromecast device being plugged into the TV and promotes accessibility of HBO Go on TV.",
+  "description": "The video opens with a top-down shot of a tablet displaying a scene from Game of Thrones, placed on a wooden table next to a cup of coffee. The user then taps the tablet and the screen transitions to a TV displaying the same scene, but much larger. A hand plugs the Chromecast device into the back of the TV. The video's mood is exciting and it aims to showcase the seamless transition from mobile to big-screen viewing with Chromecast.",
+  "captions": {
+    "0:02": "Shortened sequences.",
+    "0:05": "FOR BIGGER BLAZES",
+    "0:09": "HBO GO right on your TV.",
+    "0:10": "Everything you love, now on your TV.",
+    "0:12": "For $35. For everyone."
+  },
+  "keywords": [
+    "chromecast",
+    "google",
+    "hbo go",
+    "game of thrones",
+    "streaming",
+    "tv",
+    "tablet",
+    "mobile",
+    "entertainment",
+    "big screen",
+    "affordable",
+    "easy setup",
+    "streaming device",
+    "home entertainment",
+    "dragons"
+  ],
+  "media_type": "video",
+  "processing_time": 37.92593240737915,
+  "timestamps": {
+    "0:00": "A tablet displays a scene from Game of Thrones.",
+    "0:03": "Scene transitions to a television screen.",
+    "0:07": "A hand plugs a Chromecast into the back of the TV.",
+    "0:09": "HBO Go logo and tagline are displayed."
+  },
+  "product_name": "Chromecast",
+  "brand": "Google",
+  "department": "Marketing",
+  "product_features": [
+    "Stream content from your phone or tablet to your TV",
+    "Easy setup",
+    "Affordable",
+    "Supports HBO Go"
+  ],
+  "unique_selling_points": [
+    "Access HBO Go on your TV",
+    "Seamlessly switch from small screen to big screen"
+  ],
+  "call_to_action": "Visit google.com/chromecast to learn more"
+}
